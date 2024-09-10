@@ -1,3 +1,5 @@
+This is an old project from 2014, see https://tiplanet.org/forum/archives_voir.php?id=51574
+
 # nFlappyBird1.1
 ![image](thumbnail.gif)
 
