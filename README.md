@@ -1,4 +1,4 @@
-# nFlappyBird1.1 by pierrotdu18
+# nFlappyBird1.1
 ![image](thumbnail.gif)
 
 
