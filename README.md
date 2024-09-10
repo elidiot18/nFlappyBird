@@ -1,7 +1,5 @@
-This is an old project, not maintained anymore.
-
 # nFlappyBird1.1 by pierrotdu18
-
+![image](thumbnail.gif)
 This game is a adaptation of Flappy Bird, for TI Nspire. All models are supported, CX/non-CX, CAS/non-CAS, with any version of Ndless (3.1 & 3.6).
 
 CONTROLES
